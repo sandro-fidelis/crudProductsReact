@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "description": "Boné",
+      "price": 100,
+      "quantity": 10
+    },
+    {
+      "id": 3,
+      "description": "sapato",
+      "price": 65,
+      "quantity": 5
+    },
+    {
+      "id": 4,
+      "description": "Calça jeans Wide leg",
+      "price": 74.99,
+      "quantity": 3
+    }
+  ]
+}
